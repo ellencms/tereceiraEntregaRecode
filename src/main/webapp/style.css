@@ -1,0 +1,207 @@
+@charset "ISO-8859-1";
+
+#navbar {
+
+	background: #4169E1;
+	padding: 20px 10px 20px 10px;
+
+}
+
+.nav-item {
+
+	font-size: 23px;
+	font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+
+.carousel-inner {
+
+
+
+	height: 75vh;
+
+	align-self: flex-end;
+
+
+
+}
+
+
+
+.carousel-item {
+
+	height: 100vh;
+
+}
+
+
+
+.card {
+	font-family: 'Times New Roman', Times, serif;
+
+	padding: 10px;
+
+	display: inline;
+
+
+
+}
+
+#cartao {
+
+	background-color: #6495ED;
+
+}
+
+.card-title {
+
+	font-size: 27px;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+
+}
+
+.card-text {
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+
+.card-valor {
+
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.text-body-secondary {
+	font-size: 27px;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+
+.card-img-top {
+	width: 100%;
+	/* Definida a largura das imagens */
+	height: 250px;
+	/* Definida a altura das imagens */
+	object-fit: cover;
+	/* Isso irá manter a proporção da imagem e cortá-la se necessário */
+}
+
+
+
+
+
+
+#txt1 {
+	font-family: 'Times New Roman', Times, serif;
+
+	padding: 20px 20px 20px 20px;
+	background-color: #ffa726;
+	margin: 10px;
+	font-size: 40px;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+
+
+#formulario {
+	display: inline;
+	font-family: 'Times New Roman', Times, serif;
+	background-color: #00CED1;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	text-align: initial center;
+}
+
+li {
+	display: inline-block;
+	margin: 0 10px;
+
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.formulario {
+	margin: 0 auto;
+	width: 500px;
+	padding: 1em;
+	border: 2px solid #00CED1;
+	border-radius: 1em;
+
+
+}
+
+.btnF {
+	width: 350px;
+	text-align: center;
+	padding: 15px 20px;
+	border: 1px solid #eee;
+	border-radius: 6px;
+	background-color: #ffa500;
+	font-size: 18px;
+}
+
+#botao {
+	text-align: center;
+}
+
+
+
+/* footer */
+
+
+#rodape {
+
+	background-color: #333;
+	color: #fff;
+	margin: 10px;
+	font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+
+.footer h4 {
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+
+.footer-link {
+	color: #007BFF;
+	font-size: 24px;
+	text-decoration: none;
+	margin-right: 10px;
+	transition: color 0.3s;
+}
+
+.footer-link:hover {
+	color: #0056b3;}
